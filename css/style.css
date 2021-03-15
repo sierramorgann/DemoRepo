@@ -1,0 +1,28 @@
+body {
+	font-family: sans-serif;
+}
+
+iframe {
+	margin: 3% auto;
+	display: block;
+	height: 75vh;
+	width: 75vw;
+}
+
+#selectors img {
+	height: 100px;
+	width: 100px;
+}
+
+#selectors {
+	width: 100%;
+	position: relative; 
+}
+
+#selectors a {
+	float: right;
+	width: 20%;
+	text-align: center;
+	text-decoration: none;
+}
+
